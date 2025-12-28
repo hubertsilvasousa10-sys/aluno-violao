@@ -1,0 +1,5 @@
+{
+  "name": "Portal do Aluno - Curso de Violão",
+  "description": "Uma área de membros simples e profissional com autenticação local por senha fixa para acesso a conteúdos exclusivos de violão.",
+  "requestFramePermissions": []
+}
